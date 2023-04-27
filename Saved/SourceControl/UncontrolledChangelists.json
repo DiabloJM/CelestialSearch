@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/ALUMNOS/Documents/GitHub/CelestialSearch/Content/_Developers/JoseMiguelRuizMata/Level_Design/CelestialSearch_LevelDesign.umap",
 				"C:/Users/ALUMNOS/Documents/GitHub/CelestialSearch/Content/_Developers/JoseMiguelRuizMata/Level_Design/Labyrinth_Design.umap",
 				"C:/Users/ALUMNOS/Documents/GitHub/CelestialSearch/Content/_Developers/JoseMiguelRuizMata/Level_Design/CelestialSearch_LevelDesign_Boolean.uasset",
@@ -33,6 +34,9 @@
 				"C:/Users/ALUMNOS/Documents/GitHub/CelestialSearch/Content/_Developers/JoseMiguelRuizMata/Level_Design/M_Metal_Steel.uasset",
 				"C:/Users/ALUMNOS/Documents/GitHub/CelestialSearch/Content/_Developers/JoseMiguelRuizMata/Level_Design/M_MetalFloor.uasset",
 				"C:/Users/ALUMNOS/Documents/GitHub/CelestialSearch/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+=======
+				"C:/Users/ALUMNOS/Documents/GitHub/CelestialSearch/Content/_Developers/JoseMiguelRuizMata/Level_Design/CelestialSearch_LevelDesign.umap"
+>>>>>>> Stashed changes
 			]
 		}
 	]
