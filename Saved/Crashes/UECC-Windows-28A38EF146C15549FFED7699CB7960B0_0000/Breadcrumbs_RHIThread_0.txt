@@ -1,0 +1,5 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 SlateUI
+	01 DrawDebugCanvas
+	02 CanvasFlush
