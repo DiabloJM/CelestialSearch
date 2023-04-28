@@ -3267,3 +3267,4 @@ Make sure 'BP_Star_C' has been compiled for  Get Arrow1
 [2023.04.28-00.48.01:751][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
 [2023.04.28-00.48.01:759][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
 [2023.04.28-00.48.01:779][531]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.04.28-00.56.53:505][742]LogAssetRegistry: Error: Package C:/Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/_Developers/JoseMiguelRuizMata/Level_Design/Parkour_Design.umap has malformed tag
