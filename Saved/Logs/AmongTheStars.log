@@ -3545,3 +3545,1118 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.27-23.43.32:626][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 6.10 sec)
 [2023.04.27-23.43.32:633][803]AssetCheck: New page: Asset Save: Main
 [2023.04.27-23.43.32:633][803]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.27-23.45.52:218][772]LogBlueprint: Warning: [AssetLog] C:\Users\ALUMNOS\Documents\Unreal Projects\CelestialSearch\Content\Level\Skybox\BP_Space_Sky_Sphere.uasset: [Compiler] Variable Stars Scale is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.04.27-23.45.54:253][965]BlueprintLog: New page: Compile BP_Space_Sky_Sphere
+[2023.04.27-23.45.54:334][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.27-23.45.55:359][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.45.55:489][ 62]LogSavePackage: Moving output files for package: /Game/Level/Skybox/BP_Space_Sky_Sphere
+[2023.04.27-23.45.55:490][ 62]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/BP_Space_Sky_SphereE487EC294B1EF7A78AF4DC9B45686E87.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/BP_Space_Sky_Sphere.uasset'
+[2023.04.27-23.45.55:498][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 6.24 sec)
+[2023.04.27-23.45.55:508][ 62]AssetCheck: New page: Asset Save: BP_Space_Sky_Sphere
+[2023.04.27-23.45.55:508][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level/Skybox/BP_Space_Sky_Sphere.BP_Space_Sky_Sphere
+[2023.04.27-23.45.57:142][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.45.57:192][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.27-23.45.57:248][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.04.27-23.45.57:257][242]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.27-23.45.57:258][242]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/Main60D075234FC64A667A2D23A7C6CA2B40.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.27-23.45.57:270][242]LogFileHelpers: Saving map 'Main' took 0.079
+[2023.04.27-23.45.57:277][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 6.38 sec)
+[2023.04.27-23.45.57:283][242]AssetCheck: New page: Asset Save: Main
+[2023.04.27-23.45.57:283][242]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.27-23.46.27:753][609]LogViewport: Scene viewport resized to 564x376, mode Windowed.
+[2023.04.27-23.46.29:104][764]LogViewport: Scene viewport resized to 848x585, mode Windowed.
+[2023.04.27-23.46.34:088][200]Cmd: DELETE
+[2023.04.27-23.46.34:088][200]Cmd: ACTOR DELETE
+[2023.04.27-23.46.34:106][200]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2023.04.27-23.46.34:156][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.04.27-23.46.34:158][200]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2023.04.27-23.46.36:538][425]Cmd: TRANSACTION UNDO
+[2023.04.27-23.46.36:539][425]LogEditorTransaction: Undo Delete Elements
+[2023.04.27-23.46.40:103][693]LogViewport: Scene viewport resized to 325x581, mode Windowed.
+[2023.04.27-23.47.46:865][ 32]BlueprintLog: New page: Compile BP_Space_Sky_Sphere
+[2023.04.27-23.47.46:939][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.04.27-23.47.47:572][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.47.47:654][ 81]LogSavePackage: Moving output files for package: /Game/Level/Skybox/BP_Space_Sky_Sphere
+[2023.04.27-23.47.47:654][ 81]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/BP_Space_Sky_Sphere42B1DD9C407A0B46E6754188928A085A.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/BP_Space_Sky_Sphere.uasset'
+[2023.04.27-23.47.47:662][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 6.47 sec)
+[2023.04.27-23.47.47:669][ 81]AssetCheck: New page: Asset Save: BP_Space_Sky_Sphere
+[2023.04.27-23.47.47:669][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level/Skybox/BP_Space_Sky_Sphere.BP_Space_Sky_Sphere
+[2023.04.27-23.47.48:800][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.47.48:860][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.27-23.47.48:902][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.27-23.47.48:911][196]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.27-23.47.48:912][196]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/MainEB5EEBAF45592ED936C674AA9A52D061.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.27-23.47.48:925][196]LogFileHelpers: Saving map 'Main' took 0.064
+[2023.04.27-23.47.48:931][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 6.60 sec)
+[2023.04.27-23.47.48:938][196]AssetCheck: New page: Asset Save: Main
+[2023.04.27-23.47.48:938][196]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.27-23.48.45:449][728]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.27-23.48.45:449][728]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.27-23.48.45:449][728]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.27-23.48.45:449][728]MaterialEditorStats: Shader Count: 0
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: ================================================
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Total job queries 807, among them cache hits 509 (63.07%)
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Tracking 294 distinct input hashes that result in 164 distinct outputs (55.78%)
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: RAM used: 0.75 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Shaders Compiled: 294
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Jobs assigned 294, completed 294 (100.00%)
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Average time worker was idle: 117.86 s
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Time job spent in pending queue: average 3.86 s, longest 70.91 s
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Job execution time: average 9.24 s, max 93.51 s
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Job life time (pending + execution): average 13.10 s, max 102.38
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 183.84 s
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Jobs were issued in 249 batches (only local compilation was used), average 1.18 jobs/batch
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Average processing rate: 1.60 jobs/sec
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Total thread time: 526.23 s
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Total thread preprocess time: 19.97 s
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Percentage time preprocessing: 3.80%
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Effective parallelization: 2.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 20.68 sec, max 20.68 sec, min 20.68 sec)
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 11.13 sec, max 11.13 sec, min 11.13 sec)
+[2023.04.27-23.48.45:460][729]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 10.83 sec, max 28.43 sec, min 3.74 sec)
+[2023.04.27-23.48.45:461][729]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 10.81 sec, max 10.81 sec, min 10.81 sec)
+[2023.04.27-23.48.45:461][729]LogShaderCompilers: Display:                                    FCloudRenderViewPS000true (compiled    1 times, average 7.38 sec, max 7.38 sec, min 7.38 sec)
+[2023.04.27-23.48.45:461][729]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.27-23.48.45:461][729]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 35.00% of total time (compiled   17 times, average 10.83 sec, max 28.43 sec, min 3.74 sec)
+[2023.04.27-23.48.45:461][729]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.34% of total time (compiled   75 times, average 1.15 sec, max 1.73 sec, min 0.63 sec)
+[2023.04.27-23.48.45:461][729]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.84% of total time (compiled   75 times, average 1.11 sec, max 1.52 sec, min 0.67 sec)
+[2023.04.27-23.48.45:461][729]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.57% of total time (compiled   35 times, average 0.84 sec, max 1.14 sec, min 0.64 sec)
+[2023.04.27-23.48.45:461][729]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.19% of total time (compiled   35 times, average 0.63 sec, max 1.31 sec, min 0.37 sec)
+[2023.04.27-23.48.45:461][729]LogShaderCompilers: Display: ================================================
+[2023.04.27-23.48.45:467][730]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.27-23.48.45:468][730]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.27-23.48.45:468][730]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.27-23.48.45:468][730]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.27-23.48.45:468][730]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.27-23.48.45:468][730]MaterialEditorStats: Shader Count: 4
+[2023.04.27-23.48.47:290][929]LogMaterialEditor: Applying material M_Space
+[2023.04.27-23.48.47:872][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.04.27-23.48.49:762][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.27-23.48.49:775][930]LogAutomationController: Ignoring very large delta of 2.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.27-23.48.50:758][ 46]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.27-23.48.50:760][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.48.50:798][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Skybox/M_Space" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset" SILENT=true
+[2023.04.27-23.48.50:809][ 46]LogSavePackage: Moving output files for package: /Game/Level/Skybox/M_Space
+[2023.04.27-23.48.50:810][ 46]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/M_Space3CFFF80C4AE39F302A7F39B70D999E7F.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset'
+[2023.04.27-23.48.50:817][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 6.65 sec)
+[2023.04.27-23.48.50:824][ 46]AssetCheck: New page: Asset Save: M_Space
+[2023.04.27-23.48.50:824][ 46]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level/Skybox/M_Space.M_Space
+[2023.04.27-23.48.56:270][643]LogViewport: Scene viewport resized to 348x457, mode Windowed.
+[2023.04.27-23.48.56:353][645]LogViewport: Scene viewport resized to 275x356, mode Windowed.
+[2023.04.27-23.48.56:380][646]LogViewport: Scene viewport resized to 264x340, mode Windowed.
+[2023.04.27-23.48.56:959][697]LogViewport: Scene viewport resized to 266x346, mode Windowed.
+[2023.04.27-23.49.10:789][382]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.27-23.49.10:790][382]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.27-23.49.10:790][382]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.27-23.49.10:790][382]MaterialEditorStats: Shader Count: 0
+[2023.04.27-23.49.10:830][384]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.27-23.49.10:830][384]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.27-23.49.10:830][384]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.27-23.49.10:830][384]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.27-23.49.10:830][384]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.27-23.49.10:830][384]MaterialEditorStats: Shader Count: 4
+[2023.04.27-23.49.15:574][652]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.27-23.49.15:574][652]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.27-23.49.15:574][652]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.27-23.49.15:574][652]MaterialEditorStats: Shader Count: 0
+[2023.04.27-23.49.15:614][654]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.27-23.49.15:614][654]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.27-23.49.15:614][654]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.27-23.49.15:614][654]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.27-23.49.15:614][654]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.27-23.49.15:614][654]MaterialEditorStats: Shader Count: 4
+[2023.04.27-23.49.30:816][533]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.27-23.49.30:816][533]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.27-23.49.30:816][533]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.27-23.49.30:816][533]MaterialEditorStats: Shader Count: 0
+[2023.04.27-23.49.30:856][535]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.27-23.49.30:856][535]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.27-23.49.30:856][535]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.27-23.49.30:856][535]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.27-23.49.30:856][535]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.27-23.49.30:856][535]MaterialEditorStats: Shader Count: 4
+[2023.04.27-23.49.31:529][574]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.27-23.49.32:074][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.27-23.49.32:319][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.04.27-23.49.32:327][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.49.32:389][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Skybox/M_Space" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset" SILENT=true
+[2023.04.27-23.49.32:400][574]LogSavePackage: Moving output files for package: /Game/Level/Skybox/M_Space
+[2023.04.27-23.49.32:401][574]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/M_Space83A96FF24F32EF9438BEC8A4D4B3D462.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset'
+[2023.04.27-23.49.32:408][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 6.74 sec)
+[2023.04.27-23.49.32:415][574]AssetCheck: New page: Asset Save: M_Space
+[2023.04.27-23.49.32:415][574]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level/Skybox/M_Space.M_Space
+[2023.04.27-23.49.34:851][706]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.27-23.49.34:853][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.49.34:895][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Skybox/M_Space" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset" SILENT=true
+[2023.04.27-23.49.34:905][706]LogSavePackage: Moving output files for package: /Game/Level/Skybox/M_Space
+[2023.04.27-23.49.34:907][706]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/M_Space6D358B084B7804733842EBBC8823FF09.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset'
+[2023.04.27-23.49.34:915][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 6.80 sec)
+[2023.04.27-23.49.34:922][706]AssetCheck: New page: Asset Save: M_Space
+[2023.04.27-23.49.34:923][706]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level/Skybox/M_Space.M_Space
+[2023.04.27-23.51.56:291][ 58]LogViewport: Scene viewport resized to 264x357, mode Windowed.
+[2023.04.27-23.51.56:392][ 60]LogViewport: Scene viewport resized to 254x342, mode Windowed.
+[2023.04.27-23.51.56:463][ 61]LogViewport: Scene viewport resized to 253x340, mode Windowed.
+[2023.04.27-23.51.56:908][ 89]LogViewport: Scene viewport resized to 349x446, mode Windowed.
+[2023.04.27-23.51.57:257][122]LogSlate: Window 'M_Space' being destroyed
+[2023.04.27-23.51.59:467][300]LogSlate: Window 'BP_Space_Sky_Sphere' being destroyed
+[2023.04.27-23.52.10:618][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.52.10:671][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.27-23.52.10:717][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.04.27-23.52.10:728][921]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.27-23.52.10:729][921]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/MainDB20EC67461452CF5CC9C1B15D986692.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.27-23.52.10:743][921]LogFileHelpers: Saving map 'Main' took 0.073
+[2023.04.27-23.52.10:752][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 6.93 sec)
+[2023.04.27-23.52.10:762][921]AssetCheck: New page: Asset Save: Main
+[2023.04.27-23.52.10:762][921]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.27-23.52.17:687][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.27-23.52.17:718][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.27-23.52.17:762][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.04.27-23.52.17:770][650]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.27-23.52.17:771][650]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/MainC31A507C45BB88D36A653BBE4AC7CA21.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.27-23.52.17:785][650]LogFileHelpers: Saving map 'Main' took 0.067
+[2023.04.27-23.52.17:791][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 7.04 sec)
+[2023.04.27-23.52.17:799][650]AssetCheck: New page: Asset Save: Main
+[2023.04.27-23.52.17:799][650]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.27-23.52.25:500][208]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.04.27-23.52.25:500][208]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.04.28-00.02.17:894][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.04.28-00.02.17:903][133]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/Main_Auto4
+[2023.04.28-00.02.17:903][133]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/Main_Auto48D811B0049896CFD5E341586AC8086AE.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/Autosaves/Game/Level/Main_Auto4.umap'
+[2023.04.28-00.02.17:914][133]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Main' took 0.091
+[2023.04.28-00.02.17:914][133]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2023.04.28-00.17.50:551][326]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.04.28-00.17.50:551][326]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.04.28-00.18.34:123][ 71]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.28-00.18.41:517][730]Cmd: TRANSACTION UNDO
+[2023.04.28-00.18.41:517][730]LogEditorTransaction: Undo Edit Overall Color
+[2023.04.28-00.18.41:889][737]Cmd: TRANSACTION UNDO
+[2023.04.28-00.18.41:889][737]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2023.04.28-00.18.42:090][741]Cmd: TRANSACTION UNDO
+[2023.04.28-00.18.42:090][741]LogEditorTransaction: Undo Edit Sun Height
+[2023.04.28-00.18.42:322][763]Cmd: TRANSACTION UNDO
+[2023.04.28-00.18.42:322][763]LogEditorTransaction: Undo Reset to Default
+[2023.04.28-00.18.42:727][805]Cmd: TRANSACTION UNDO
+[2023.04.28-00.18.42:727][805]LogEditorTransaction: Undo Edit Sun Height
+[2023.04.28-00.18.44:285][971]Cmd: TRANSACTION UNDO
+[2023.04.28-00.18.44:285][971]LogEditorTransaction: Undo Edit Sun Height
+[2023.04.28-00.18.44:672][ 11]Cmd: TRANSACTION UNDO
+[2023.04.28-00.18.44:672][ 11]LogEditorTransaction: Undo Edit Sun Height
+[2023.04.28-00.18.45:042][ 48]Cmd: TRANSACTION UNDO
+[2023.04.28-00.18.45:042][ 48]LogEditorTransaction: Undo Edit Directional Light Actor
+[2023.04.28-00.19.37:969][341]Cmd: DELETE
+[2023.04.28-00.19.37:969][341]Cmd: ACTOR DELETE
+[2023.04.28-00.19.37:982][341]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2023.04.28-00.19.38:041][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.04.28-00.19.38:043][341]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2023.04.28-00.19.45:418][207]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.28-00.19.45:425][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.28-00.19.45:425][207]PIE: New page: PIE session: Main (Apr 27, 2023, 1:19:45 PM)
+[2023.04.28-00.19.45:433][207]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.04.28-00.19.45:433][207]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.28-00.19.45:433][207]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.19.45:436][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002966s)
+[2023.04.28-00.19.45:436][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Main.Main to /Game/Level/UEDPIE_0_Main.Main (0.003073s)
+[2023.04.28-00.19.45:436][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-00.19.45:437][207]LogAIModule: Creating AISystem for world Main
+[2023.04.28-00.19.45:437][207]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2023.04.28-00.19.45:481][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.04.28-00.19.45:483][207]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.28-00.19.45:483][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.28-00.19.45:483][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.28-00.19.45:483][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.28-00.19.45:483][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.28-00.19.45:483][207]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.28-00.19.45:483][207]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.28-00.19.45:483][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.28-00.19.45:483][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.28-00.19.45:485][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.28-00.19.45:485][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.28-00.19.45:485][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.28-00.19.45:488][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.28-00.19.45:519][207]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.04.28-00.19.45:519][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.28-00.19.45:519][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.28-00.19.45:519][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.28-00.19.45:521][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.04.28-00.19.45:521][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.04.28-00.19.45:523][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.04.28-00.19.45:523][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.04.28-00.19.45:523][207]LogInit: FAudioDevice initialized.
+[2023.04.28-00.19.45:523][207]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2023.04.28-00.19.45:529][207]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2023.04.28-00.19.45:529][207]LogLoad: Game class is 'GameModeBase'
+[2023.04.28-00.19.45:530][207]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.04.27-18.19.45
+[2023.04.28-00.19.45:530][207]LogWorld: Bringing up level for play took: 0.000834
+[2023.04.28-00.19.45:534][207]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.04.28-00.19.45:555][207]PIE: Server logged in
+[2023.04.28-00.19.45:556][207]PIE: Play in editor total start time 0.131 seconds.
+[2023.04.28-00.19.50:840][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.19.50:840][738]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.19.50:840][738]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-00.19.50:841][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.19.50:845][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.28-00.19.50:854][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.19.50:901][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.19.50:901][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.28-00.19.50:903][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.28-00.19.50:958][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.04.28-00.19.50:989][739]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.04.28-00.19.52:590][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.19.52:641][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.19.52:703][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.04.28-00.19.52:713][917]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.19.52:714][917]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/MainBE0040184BF1F0027E3C1A985EB76D8C.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.19.52:727][917]LogFileHelpers: Saving map 'Main' took 0.086
+[2023.04.28-00.19.52:738][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 7.18 sec)
+[2023.04.28-00.19.52:745][917]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.19.52:745][917]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.28-00.19.58:028][484]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2023.04.28-00.19.58:028][484]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2023.04.28-00.19.58:386][513]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2023.04.28-00.19.58:386][513]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2023.04.28-00.19.59:422][610]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.28-00.19.59:422][610]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.28-00.19.59:422][610]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.28-00.20.03:799][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.20.03:857][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.20.03:911][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.04.28-00.20.03:921][ 41]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.20.03:922][ 41]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/Main6DA7BF8A4E394245589E8ABA6110F7A7.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.20.03:935][ 41]LogFileHelpers: Saving map 'Main' took 0.080
+[2023.04.28-00.20.03:940][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 7.32 sec)
+[2023.04.28-00.20.03:948][ 41]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.20.03:948][ 41]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.28-00.20.04:712][129]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.28-00.20.04:720][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.28-00.20.04:720][129]PIE: New page: PIE session: Main (Apr 27, 2023, 1:20:04 PM)
+[2023.04.28-00.20.04:760][129]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.20.04:762][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002046s)
+[2023.04.28-00.20.04:762][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Main.Main to /Game/Level/UEDPIE_0_Main.Main (0.002085s)
+[2023.04.28-00.20.04:762][129]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-00.20.04:762][129]LogAIModule: Creating AISystem for world Main
+[2023.04.28-00.20.04:763][129]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2023.04.28-00.20.04:818][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.04.28-00.20.04:819][129]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.28-00.20.04:819][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.28-00.20.04:819][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.28-00.20.04:819][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.28-00.20.04:819][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.28-00.20.04:819][129]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.28-00.20.04:819][129]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.28-00.20.04:819][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.28-00.20.04:819][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.28-00.20.04:820][129]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.28-00.20.04:820][129]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.28-00.20.04:820][129]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.28-00.20.04:822][129]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.28-00.20.04:847][129]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.04.28-00.20.04:848][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.28-00.20.04:848][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.28-00.20.04:848][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.28-00.20.04:851][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.04.28-00.20.04:852][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.04.28-00.20.04:854][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.04.28-00.20.04:854][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.04.28-00.20.04:854][129]LogInit: FAudioDevice initialized.
+[2023.04.28-00.20.04:854][129]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2023.04.28-00.20.04:856][129]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.28-00.20.04:857][129]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.04.27-18.20.04
+[2023.04.28-00.20.04:857][129]LogWorld: Bringing up level for play took: 0.000854
+[2023.04.28-00.20.04:860][129]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.04.28-00.20.04:865][129]PIE: Server logged in
+[2023.04.28-00.20.04:867][129]PIE: Play in editor total start time 0.147 seconds.
+[2023.04.28-00.20.13:641][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.20.13:641][153]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.20.13:641][153]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-00.20.13:641][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.20.13:645][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.28-00.20.13:655][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.20.13:706][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.28-00.20.13:707][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.28-00.20.13:709][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.28-00.20.13:714][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.20.13:719][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.04.28-00.20.13:745][154]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.04.28-00.20.17:636][552]LogViewport: Scene viewport resized to 327x581, mode Windowed.
+[2023.04.28-00.20.17:685][552]LogViewport: Scene viewport resized to 347x581, mode Windowed.
+[2023.04.28-00.20.17:736][552]LogViewport: Scene viewport resized to 363x581, mode Windowed.
+[2023.04.28-00.20.17:786][552]LogViewport: Scene viewport resized to 367x581, mode Windowed.
+[2023.04.28-00.20.17:835][552]LogViewport: Scene viewport resized to 371x581, mode Windowed.
+[2023.04.28-00.20.17:886][552]LogViewport: Scene viewport resized to 379x581, mode Windowed.
+[2023.04.28-00.20.17:935][552]LogViewport: Scene viewport resized to 382x581, mode Windowed.
+[2023.04.28-00.20.18:386][599]LogViewport: Scene viewport resized to 848x585, mode Windowed.
+[2023.04.28-00.20.20:704][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.28-00.20.20:711][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.28-00.20.20:711][795]PIE: New page: PIE session: Main (Apr 27, 2023, 1:20:20 PM)
+[2023.04.28-00.20.20:711][795]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.20.20:713][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001961s)
+[2023.04.28-00.20.20:713][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Main.Main to /Game/Level/UEDPIE_0_Main.Main (0.001994s)
+[2023.04.28-00.20.20:713][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-00.20.20:714][795]LogAIModule: Creating AISystem for world Main
+[2023.04.28-00.20.20:714][795]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2023.04.28-00.20.20:769][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2023.04.28-00.20.20:770][795]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.28-00.20.20:770][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.28-00.20.20:770][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.28-00.20.20:770][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.28-00.20.20:770][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.28-00.20.20:770][795]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.28-00.20.20:770][795]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.28-00.20.20:770][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.28-00.20.20:770][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.28-00.20.20:771][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.28-00.20.20:771][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.28-00.20.20:771][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.28-00.20.20:773][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.28-00.20.20:799][795]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.04.28-00.20.20:800][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.28-00.20.20:800][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.28-00.20.20:800][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.28-00.20.20:802][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.04.28-00.20.20:802][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.04.28-00.20.20:804][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.04.28-00.20.20:805][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.04.28-00.20.20:805][795]LogInit: FAudioDevice initialized.
+[2023.04.28-00.20.20:805][795]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2023.04.28-00.20.20:807][795]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.28-00.20.20:807][795]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.04.27-18.20.20
+[2023.04.28-00.20.20:807][795]LogWorld: Bringing up level for play took: 0.000615
+[2023.04.28-00.20.20:810][795]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.04.28-00.20.20:814][795]PIE: Server logged in
+[2023.04.28-00.20.20:814][795]PIE: Play in editor total start time 0.104 seconds.
+[2023.04.28-00.20.34:101][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.20.34:101][131]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.20.34:101][131]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-00.20.34:102][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.20.34:106][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.28-00.20.34:113][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.20.34:164][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.20.34:164][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.28-00.20.34:167][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.28-00.20.34:176][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.04.28-00.20.34:206][132]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.04.28-00.21.21:359][147]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.04.28-00.21.21:359][147]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.04.28-00.21.47:173][584]LogViewport: Scene viewport resized to 325x581, mode Windowed.
+[2023.04.28-00.21.50:794][965]LogViewport: Scene viewport resized to 328x581, mode Windowed.
+[2023.04.28-00.21.50:877][972]LogViewport: Scene viewport resized to 334x581, mode Windowed.
+[2023.04.28-00.21.50:919][974]LogViewport: Scene viewport resized to 336x581, mode Windowed.
+[2023.04.28-00.21.50:959][976]LogViewport: Scene viewport resized to 339x581, mode Windowed.
+[2023.04.28-00.21.50:999][978]LogViewport: Scene viewport resized to 343x581, mode Windowed.
+[2023.04.28-00.21.51:041][980]LogViewport: Scene viewport resized to 352x581, mode Windowed.
+[2023.04.28-00.21.51:249][  1]LogViewport: Scene viewport resized to 358x581, mode Windowed.
+[2023.04.28-00.21.51:289][  3]LogViewport: Scene viewport resized to 364x581, mode Windowed.
+[2023.04.28-00.21.51:327][  5]LogViewport: Scene viewport resized to 376x581, mode Windowed.
+[2023.04.28-00.22.18:206][  5]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.28-00.22.18:206][  5]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.22.18:206][  5]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.22.18:206][  5]MaterialEditorStats: Shader Count: 0
+[2023.04.28-00.22.18:216][  6]LogShaderCompilers: Display: ================================================
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Total job queries 851, among them cache hits 551 (64.75%)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Tracking 296 distinct input hashes that result in 165 distinct outputs (55.74%)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: RAM used: 0.76 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Shaders Compiled: 296
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Jobs assigned 296, completed 296 (100.00%)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Average time worker was idle: 120.64 s
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Time job spent in pending queue: average 3.83 s, longest 70.91 s
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Job execution time: average 9.19 s, max 93.51 s
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Job life time (pending + execution): average 13.02 s, max 102.38
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 185.48 s
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Jobs were issued in 251 batches (only local compilation was used), average 1.18 jobs/batch
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Average processing rate: 1.60 jobs/sec
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Total thread time: 528.19 s
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Total thread preprocess time: 20.05 s
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Percentage time preprocessing: 3.80%
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Effective parallelization: 2.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 20.68 sec, max 20.68 sec, min 20.68 sec)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 11.13 sec, max 11.13 sec, min 11.13 sec)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 10.83 sec, max 28.43 sec, min 3.74 sec)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 10.81 sec, max 10.81 sec, min 10.81 sec)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display:                                    FCloudRenderViewPS000true (compiled    1 times, average 7.38 sec, max 7.38 sec, min 7.38 sec)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 34.87% of total time (compiled   17 times, average 10.83 sec, max 28.43 sec, min 3.74 sec)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.28% of total time (compiled   75 times, average 1.15 sec, max 1.73 sec, min 0.63 sec)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.78% of total time (compiled   75 times, average 1.11 sec, max 1.52 sec, min 0.67 sec)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.55% of total time (compiled   35 times, average 0.84 sec, max 1.14 sec, min 0.64 sec)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.18% of total time (compiled   35 times, average 0.63 sec, max 1.31 sec, min 0.37 sec)
+[2023.04.28-00.22.18:217][  6]LogShaderCompilers: Display: ================================================
+[2023.04.28-00.22.18:226][  7]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.28-00.22.18:226][  7]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.28-00.22.18:226][  7]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.28-00.22.18:226][  7]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.22.18:226][  7]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.22.18:226][  7]MaterialEditorStats: Shader Count: 2
+[2023.04.28-00.22.20:138][223]LogMaterialEditor: Applying material M_Space
+[2023.04.28-00.22.20:701][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.28-00.22.20:934][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.04.28-00.22.21:333][269]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.28-00.22.21:336][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.22.21:397][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Skybox/M_Space" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset" SILENT=true
+[2023.04.28-00.22.21:407][269]LogSavePackage: Moving output files for package: /Game/Level/Skybox/M_Space
+[2023.04.28-00.22.21:408][269]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/M_SpaceF1B26032458B6F09A811658ADA2D08D4.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset'
+[2023.04.28-00.22.21:416][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 7.40 sec)
+[2023.04.28-00.22.21:424][269]AssetCheck: New page: Asset Save: M_Space
+[2023.04.28-00.22.21:424][269]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level/Skybox/M_Space.M_Space
+[2023.04.28-00.22.22:882][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.22.22:927][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.22.22:974][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.04.28-00.22.22:981][419]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.22.22:982][419]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/Main5CA803ED4932BBFD353728ACA7FECA26.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.22.22:995][419]LogFileHelpers: Saving map 'Main' took 0.068
+[2023.04.28-00.22.23:002][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 7.52 sec)
+[2023.04.28-00.22.23:009][419]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.22.23:009][419]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.28-00.22.41:878][595]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.28-00.22.41:878][595]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.22.41:878][595]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.22.41:878][595]MaterialEditorStats: Shader Count: 0
+[2023.04.28-00.22.41:896][597]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.28-00.22.41:896][597]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.28-00.22.41:896][597]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.28-00.22.41:896][597]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.22.41:896][597]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.22.41:896][597]MaterialEditorStats: Shader Count: 4
+[2023.04.28-00.26.54:294][ 99]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.28-00.27.54:079][ 23]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.28-00.30.07:860][740]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.28-00.30.07:860][740]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.30.07:860][740]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.30.07:860][740]MaterialEditorStats: Shader Count: 0
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: ================================================
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Total job queries 873, among them cache hits 573 (65.64%)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Tracking 296 distinct input hashes that result in 165 distinct outputs (55.74%)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: RAM used: 0.76 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Shaders Compiled: 296
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Jobs assigned 296, completed 296 (100.00%)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Average time worker was idle: 120.64 s
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Time job spent in pending queue: average 3.83 s, longest 70.91 s
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Job execution time: average 9.19 s, max 93.51 s
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Job life time (pending + execution): average 13.02 s, max 102.38
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 185.48 s
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Jobs were issued in 251 batches (only local compilation was used), average 1.18 jobs/batch
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Average processing rate: 1.60 jobs/sec
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Total thread time: 528.19 s
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Total thread preprocess time: 20.05 s
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Percentage time preprocessing: 3.80%
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Effective parallelization: 2.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 20.68 sec, max 20.68 sec, min 20.68 sec)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 11.13 sec, max 11.13 sec, min 11.13 sec)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 10.83 sec, max 28.43 sec, min 3.74 sec)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 10.81 sec, max 10.81 sec, min 10.81 sec)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display:                                    FCloudRenderViewPS000true (compiled    1 times, average 7.38 sec, max 7.38 sec, min 7.38 sec)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 34.87% of total time (compiled   17 times, average 10.83 sec, max 28.43 sec, min 3.74 sec)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.28% of total time (compiled   75 times, average 1.15 sec, max 1.73 sec, min 0.63 sec)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.78% of total time (compiled   75 times, average 1.11 sec, max 1.52 sec, min 0.67 sec)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.55% of total time (compiled   35 times, average 0.84 sec, max 1.14 sec, min 0.64 sec)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.18% of total time (compiled   35 times, average 0.63 sec, max 1.31 sec, min 0.37 sec)
+[2023.04.28-00.30.07:871][741]LogShaderCompilers: Display: ================================================
+[2023.04.28-00.30.07:883][742]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.28-00.30.07:883][742]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.28-00.30.07:883][742]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.28-00.30.07:883][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.30.07:883][742]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.30.07:883][742]MaterialEditorStats: Shader Count: 2
+[2023.04.28-00.30.10:157][  9]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.28-00.30.10:794][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.04.28-00.30.11:022][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.04.28-00.30.11:031][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.30.11:098][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Skybox/M_Space" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset" SILENT=true
+[2023.04.28-00.30.11:107][  9]LogSavePackage: Moving output files for package: /Game/Level/Skybox/M_Space
+[2023.04.28-00.30.11:108][  9]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/M_SpaceD3C9F5ED4DB33EEA7CBCA1BDC4E9F4CF.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset'
+[2023.04.28-00.30.11:116][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 7.61 sec)
+[2023.04.28-00.30.11:124][  9]AssetCheck: New page: Asset Save: M_Space
+[2023.04.28-00.30.11:124][  9]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level/Skybox/M_Space.M_Space
+[2023.04.28-00.30.12:603][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.30.12:654][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.30.12:702][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.04.28-00.30.12:710][173]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.30.12:710][173]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/Main3B5375CF4F754688566658964021D1D5.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.30.12:723][173]LogFileHelpers: Saving map 'Main' took 0.069
+[2023.04.28-00.30.12:729][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 7.73 sec)
+[2023.04.28-00.30.12:737][173]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.30.12:738][173]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.28-00.30.39:463][192]Cmd: TRANSACTION UNDO
+[2023.04.28-00.30.39:463][192]LogEditorTransaction: Undo Reset to Default
+[2023.04.28-00.30.40:273][228]Cmd: TRANSACTION UNDO
+[2023.04.28-00.30.40:273][228]LogEditorTransaction: Undo Reset to Default
+[2023.04.28-00.30.40:625][269]Cmd: TRANSACTION UNDO
+[2023.04.28-00.30.40:625][269]LogEditorTransaction: Undo Edit Stars Scale
+[2023.04.28-00.30.40:884][299]Cmd: TRANSACTION UNDO
+[2023.04.28-00.30.40:884][299]LogEditorTransaction: Undo Edit Stars Opacity
+[2023.04.28-00.30.41:328][350]Cmd: TRANSACTION UNDO
+[2023.04.28-00.30.41:328][350]LogEditorTransaction: Undo Edit Stars Scale
+[2023.04.28-00.30.42:324][464]Cmd: TRANSACTION UNDO
+[2023.04.28-00.30.42:324][464]LogEditorTransaction: Undo Edit Stars Scale
+[2023.04.28-00.30.42:749][514]Cmd: TRANSACTION UNDO
+[2023.04.28-00.30.42:749][514]LogEditorTransaction: Undo Edit Stars Scale
+[2023.04.28-00.30.44:668][740]Cmd: TRANSACTION REDO
+[2023.04.28-00.30.44:668][740]LogEditorTransaction: Redo Edit Stars Scale
+[2023.04.28-00.30.44:941][745]Cmd: TRANSACTION REDO
+[2023.04.28-00.30.44:941][745]LogEditorTransaction: Redo Edit Stars Scale
+[2023.04.28-00.30.45:641][793]Cmd: TRANSACTION REDO
+[2023.04.28-00.30.45:641][793]LogEditorTransaction: Redo Edit Stars Scale
+[2023.04.28-00.31.31:262][623]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.28-00.31.31:299][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.28-00.31.31:300][623]PIE: New page: PIE session: Main (Apr 27, 2023, 1:31:31 PM)
+[2023.04.28-00.31.31:350][623]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.31.31:355][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004585s)
+[2023.04.28-00.31.31:355][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Main.Main to /Game/Level/UEDPIE_0_Main.Main (0.004685s)
+[2023.04.28-00.31.31:355][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-00.31.31:356][623]LogAIModule: Creating AISystem for world Main
+[2023.04.28-00.31.31:356][623]LogPlayLevel: PIE: World Init took: (0.001791s)
+[2023.04.28-00.31.31:429][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.28-00.31.31:431][623]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.28-00.31.31:431][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.28-00.31.31:431][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.28-00.31.31:431][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.28-00.31.31:431][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.28-00.31.31:431][623]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.28-00.31.31:431][623]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.28-00.31.31:431][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.28-00.31.31:431][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.28-00.31.31:433][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.28-00.31.31:433][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.28-00.31.31:433][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.28-00.31.31:436][623]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.28-00.31.31:461][623]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.04.28-00.31.31:462][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.28-00.31.31:462][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.28-00.31.31:462][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.28-00.31.31:463][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.04.28-00.31.31:463][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.04.28-00.31.31:466][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.04.28-00.31.31:466][623]LogInit: FAudioDevice initialized.
+[2023.04.28-00.31.31:466][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.04.28-00.31.31:467][623]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2023.04.28-00.31.31:472][623]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.28-00.31.31:472][623]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.04.27-18.31.31
+[2023.04.28-00.31.31:472][623]LogWorld: Bringing up level for play took: 0.000645
+[2023.04.28-00.31.31:475][623]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.04.28-00.31.31:479][623]PIE: Server logged in
+[2023.04.28-00.31.31:480][623]PIE: Play in editor total start time 0.21 seconds.
+[2023.04.28-00.31.37:310][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.31.37:310][300]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.31.37:310][300]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-00.31.37:310][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.31.37:318][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.28-00.31.37:325][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.31.37:375][300]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.28-00.31.37:375][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.28-00.31.37:377][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.28-00.31.37:381][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.31.37:386][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.04.28-00.31.37:423][301]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.04.28-00.32.15:950][345]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.28-00.32.15:950][345]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.32.15:950][345]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.32.15:950][345]MaterialEditorStats: Shader Count: 0
+[2023.04.28-00.32.17:112][459]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.28-00.32.17:112][459]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.32.17:112][459]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.32.17:112][459]MaterialEditorStats: Shader Count: 1
+[2023.04.28-00.32.17:420][493]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.28-00.32.17:421][493]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.28-00.32.17:421][493]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.32.17:421][493]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.32.17:421][493]MaterialEditorStats: Shader Count: 3
+[2023.04.28-00.32.17:621][517]MaterialEditorStats: Base pass shader without light map: 167 instructions
+[2023.04.28-00.32.17:621][517]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.28-00.32.17:621][517]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.28-00.32.17:621][517]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.32.17:622][517]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.32.17:622][517]MaterialEditorStats: Shader Count: 4
+[2023.04.28-00.32.19:278][704]LogMaterialEditor: Applying material M_Space
+[2023.04.28-00.32.19:846][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.04.28-00.32.21:658][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.04.28-00.32.21:672][705]LogAutomationController: Ignoring very large delta of 2.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.28-00.32.22:429][795]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.28-00.32.22:431][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.32.22:493][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Skybox/M_Space" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset" SILENT=true
+[2023.04.28-00.32.22:504][795]LogSavePackage: Moving output files for package: /Game/Level/Skybox/M_Space
+[2023.04.28-00.32.22:504][795]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/M_Space7C3859F6440AEE2C4B6511B8708E7BC5.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset'
+[2023.04.28-00.32.22:512][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 7.82 sec)
+[2023.04.28-00.32.22:520][795]AssetCheck: New page: Asset Save: M_Space
+[2023.04.28-00.32.22:520][795]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level/Skybox/M_Space.M_Space
+[2023.04.28-00.32.25:218][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.32.25:256][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.32.25:304][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.28-00.32.25:312][ 95]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.32.25:313][ 95]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/Main95A5600C4ADF1E7880815C8EBAF0591D.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.32.25:325][ 95]LogFileHelpers: Saving map 'Main' took 0.069
+[2023.04.28-00.32.25:331][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 7.93 sec)
+[2023.04.28-00.32.25:339][ 95]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.32.25:339][ 95]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.28-00.32.32:808][974]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.28-00.32.32:808][974]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.32.32:808][974]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.32.32:808][974]MaterialEditorStats: Shader Count: 0
+[2023.04.28-00.32.32:824][976]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.28-00.32.32:825][976]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.28-00.32.32:825][976]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.28-00.32.32:825][976]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.32.32:825][976]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.32.32:825][976]MaterialEditorStats: Shader Count: 4
+[2023.04.28-00.35.11:824][304]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.28-00.35.29:263][209]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.28-00.36.08:645][474]LogViewport: Scene viewport resized to 443x376, mode Windowed.
+[2023.04.28-00.36.09:858][540]LogViewport: Scene viewport resized to 983x585, mode Windowed.
+[2023.04.28-00.36.12:143][719]LogViewport: Scene viewport resized to 935x449, mode Windowed.
+[2023.04.28-00.36.12:388][724]LogViewport: Scene viewport resized to 933x460, mode Windowed.
+[2023.04.28-00.36.12:483][726]LogViewport: Scene viewport resized to 376x157, mode Windowed.
+[2023.04.28-00.36.13:159][777]LogViewport: Scene viewport resized to 378x163, mode Windowed.
+[2023.04.28-00.36.25:935][496]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+
+[2023.04.28-00.36.25:939][496]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> UVW input required for cubemap sample
+[2023.04.28-00.36.26:486][524]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.28-00.36.28:627][524]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2023.04.28-00.36.28:649][525]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.28-00.36.29:842][588]Cmd: TRANSACTION UNDO
+[2023.04.28-00.36.29:842][588]LogEditorTransaction: Undo Material Editor: Delete
+[2023.04.28-00.36.29:926][588]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.28-00.36.29:926][588]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.36.29:926][588]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.36.29:926][588]MaterialEditorStats: Shader Count: 0
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: ================================================
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Total job queries 915, among them cache hits 609 (66.56%)
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Tracking 302 distinct input hashes that result in 168 distinct outputs (55.63%)
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: RAM used: 0.77 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Shaders Compiled: 302
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Jobs assigned 302, completed 302 (100.00%)
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Average time worker was idle: 162.83 s
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Time job spent in pending queue: average 3.76 s, longest 70.91 s
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Job execution time: average 9.03 s, max 93.51 s
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Job life time (pending + execution): average 12.78 s, max 102.38
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 188.69 s
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Jobs were issued in 257 batches (only local compilation was used), average 1.18 jobs/batch
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Average processing rate: 1.60 jobs/sec
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Total thread time: 533.99 s
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Total thread preprocess time: 20.37 s
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Percentage time preprocessing: 3.81%
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Effective parallelization: 2.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.28-00.36.30:074][589]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 20.68 sec, max 20.68 sec, min 20.68 sec)
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 11.13 sec, max 11.13 sec, min 11.13 sec)
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 10.83 sec, max 28.43 sec, min 3.74 sec)
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 10.81 sec, max 10.81 sec, min 10.81 sec)
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display:                                    FCloudRenderViewPS000true (compiled    1 times, average 7.38 sec, max 7.38 sec, min 7.38 sec)
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 34.49% of total time (compiled   17 times, average 10.83 sec, max 28.43 sec, min 3.74 sec)
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.32% of total time (compiled   76 times, average 1.15 sec, max 1.73 sec, min 0.63 sec)
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.80% of total time (compiled   76 times, average 1.11 sec, max 1.52 sec, min 0.67 sec)
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.65% of total time (compiled   36 times, average 0.84 sec, max 1.14 sec, min 0.64 sec)
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.27% of total time (compiled   36 times, average 0.63 sec, max 1.31 sec, min 0.37 sec)
+[2023.04.28-00.36.30:075][589]LogShaderCompilers: Display: ================================================
+[2023.04.28-00.36.30:155][590]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.28-00.36.30:155][590]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.28-00.36.30:155][590]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.28-00.36.30:155][590]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.36.30:155][590]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.36.30:156][590]MaterialEditorStats: Shader Count: 4
+[2023.04.28-00.36.31:411][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.36.31:491][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.36.31:578][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.04.28-00.36.31:586][645]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.36.31:587][645]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/MainF7275C3941A44334664EFC9BCE0E3240.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.36.31:600][645]LogFileHelpers: Saving map 'Main' took 0.111
+[2023.04.28-00.36.31:608][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 8.12 sec)
+[2023.04.28-00.36.31:616][645]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.36.31:617][645]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.28-00.36.32:261][676]LogMaterialEditor: Applying material M_Space
+[2023.04.28-00.36.32:844][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.28-00.36.33:062][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.28-00.36.33:262][686]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.28-00.36.33:264][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.36.33:334][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Skybox/M_Space" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset" SILENT=true
+[2023.04.28-00.36.33:344][686]LogSavePackage: Moving output files for package: /Game/Level/Skybox/M_Space
+[2023.04.28-00.36.33:345][686]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/M_Space80EADCC648ED3997052B01B0C859E7AB.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset'
+[2023.04.28-00.36.33:354][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 8.21 sec)
+[2023.04.28-00.36.33:362][686]AssetCheck: New page: Asset Save: M_Space
+[2023.04.28-00.36.33:363][686]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level/Skybox/M_Space.M_Space
+[2023.04.28-00.36.38:935][ 14]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.28-00.36.38:935][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.36.38:935][ 14]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.36.38:935][ 14]MaterialEditorStats: Shader Count: 0
+[2023.04.28-00.36.38:972][ 16]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.28-00.36.38:972][ 16]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.28-00.36.38:972][ 16]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.28-00.36.38:972][ 16]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.36.38:972][ 16]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.36.38:972][ 16]MaterialEditorStats: Shader Count: 4
+[2023.04.28-00.36.39:648][ 57]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.28-00.36.40:194][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.04.28-00.36.40:417][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.04.28-00.36.40:426][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.36.40:477][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Skybox/M_Space" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset" SILENT=true
+[2023.04.28-00.36.40:486][ 57]LogSavePackage: Moving output files for package: /Game/Level/Skybox/M_Space
+[2023.04.28-00.36.40:487][ 57]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/M_SpaceF1D4002248C5137CAEA14ABFB6B8DA31.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset'
+[2023.04.28-00.36.40:492][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 8.28 sec)
+[2023.04.28-00.36.40:500][ 57]AssetCheck: New page: Asset Save: M_Space
+[2023.04.28-00.36.40:500][ 57]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level/Skybox/M_Space.M_Space
+[2023.04.28-00.36.45:596][330]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+
+[2023.04.28-00.36.45:598][330]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> UVW input required for cubemap sample
+[2023.04.28-00.36.59:469][ 68]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+
+[2023.04.28-00.37.04:762][345]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Cannot cast from smaller type float2 to larger type float3.
+
+[2023.04.28-00.37.04:770][345]MaterialEditorStats: Error: [SM5] (Node TextureSample) Cannot cast from smaller type float2 to larger type float3.
+[2023.04.28-00.37.08:169][548]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.28-00.37.08:195][548]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Cannot cast from smaller type float2 to larger type float3.
+
+[2023.04.28-00.37.09:740][548]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2023.04.28-00.37.10:237][548]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Cannot cast from smaller type float2 to larger type float3.
+
+[2023.04.28-00.37.10:249][548]LogMaterial: Warning: [AssetLog] C:\Users\ALUMNOS\Documents\Unreal Projects\CelestialSearch\Content\Level\Skybox\M_Space.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Cannot cast from smaller type float2 to larger type float3.
+
+[2023.04.28-00.37.10:298][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.04.28-00.37.10:392][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.04.28-00.37.10:402][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.37.10:434][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Skybox/M_Space" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset" SILENT=true
+[2023.04.28-00.37.10:443][548]LogSavePackage: Moving output files for package: /Game/Level/Skybox/M_Space
+[2023.04.28-00.37.10:444][548]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/M_SpaceF9983E29429C6AD2F9EDC6B68118A0C7.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset'
+[2023.04.28-00.37.10:451][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 8.33 sec)
+[2023.04.28-00.37.10:460][548]AssetCheck: New page: Asset Save: M_Space
+[2023.04.28-00.37.10:460][548]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level/Skybox/M_Space.M_Space
+[2023.04.28-00.37.10:476][549]LogAutomationController: Ignoring very large delta of 2.31 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.28-00.37.13:326][699]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+
+[2023.04.28-00.37.13:328][699]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> UVW input required for cubemap sample
+[2023.04.28-00.37.19:769][ 46]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Space (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+
+[2023.04.28-00.37.21:497][122]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.28-00.37.21:497][122]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.37.21:497][122]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.37.21:497][122]MaterialEditorStats: Shader Count: 0
+[2023.04.28-00.37.21:654][124]MaterialEditorStats: Base pass shader without light map: 166 instructions
+[2023.04.28-00.37.21:654][124]MaterialEditorStats: Base pass vertex shader: 258 instructions
+[2023.04.28-00.37.21:654][124]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.28-00.37.21:654][124]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2023.04.28-00.37.21:654][124]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2023.04.28-00.37.21:655][124]MaterialEditorStats: Shader Count: 4
+[2023.04.28-00.37.23:055][197]LogMaterialEditor: Applying material M_Space
+[2023.04.28-00.37.23:608][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.04.28-00.37.23:885][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.04.28-00.37.24:556][237]LogMaterialEditor: Saving and Compiling material M_Space
+[2023.04.28-00.37.24:558][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.37.24:602][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Skybox/M_Space" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset" SILENT=true
+[2023.04.28-00.37.24:612][237]LogSavePackage: Moving output files for package: /Game/Level/Skybox/M_Space
+[2023.04.28-00.37.24:613][237]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/M_Space4AFBC52745FE26A72D9EF8BA6C862B63.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/M_Space.uasset'
+[2023.04.28-00.37.24:621][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 8.39 sec)
+[2023.04.28-00.37.24:629][237]AssetCheck: New page: Asset Save: M_Space
+[2023.04.28-00.37.24:629][237]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Level/Skybox/M_Space.M_Space
+[2023.04.28-00.37.58:337][700]BlueprintLog: New page: Compile BP_Space_Sky_Sphere
+[2023.04.28-00.37.58:424][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.04.28-00.37.59:372][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.37.59:458][737]LogSavePackage: Moving output files for package: /Game/Level/Skybox/BP_Space_Sky_Sphere
+[2023.04.28-00.37.59:459][737]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/BP_Space_Sky_Sphere131C6A4B470BF723181268B1DFFB50E4.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Skybox/BP_Space_Sky_Sphere.uasset'
+[2023.04.28-00.37.59:466][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 8.49 sec)
+[2023.04.28-00.37.59:475][737]AssetCheck: New page: Asset Save: BP_Space_Sky_Sphere
+[2023.04.28-00.37.59:475][737]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Level/Skybox/BP_Space_Sky_Sphere.BP_Space_Sky_Sphere
+[2023.04.28-00.38.03:450][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.38.03:498][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.38.03:547][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.04.28-00.38.03:555][981]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.38.03:556][981]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/MainE8FB51EC452A4177313A3FAB9E1DBD59.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.38.03:568][981]LogFileHelpers: Saving map 'Main' took 0.070
+[2023.04.28-00.38.03:573][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 8.61 sec)
+[2023.04.28-00.38.03:581][981]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.38.03:581][981]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.28-00.38.05:756][125]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.28-00.38.05:763][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.28-00.38.05:763][125]PIE: New page: PIE session: Main (Apr 27, 2023, 1:38:05 PM)
+[2023.04.28-00.38.05:763][125]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.38.05:765][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002079s)
+[2023.04.28-00.38.05:765][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Main.Main to /Game/Level/UEDPIE_0_Main.Main (0.002131s)
+[2023.04.28-00.38.05:765][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-00.38.05:766][125]LogAIModule: Creating AISystem for world Main
+[2023.04.28-00.38.05:766][125]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2023.04.28-00.38.05:813][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.28-00.38.05:814][125]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.28-00.38.05:814][125]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.28-00.38.05:814][125]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.28-00.38.05:815][125]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.28-00.38.05:815][125]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.28-00.38.05:815][125]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.28-00.38.05:815][125]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.28-00.38.05:815][125]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.28-00.38.05:815][125]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.28-00.38.05:815][125]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.28-00.38.05:815][125]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.28-00.38.05:815][125]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.28-00.38.05:818][125]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.28-00.38.05:843][125]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.04.28-00.38.05:843][125]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.28-00.38.05:843][125]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.28-00.38.05:843][125]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.28-00.38.05:844][125]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.04.28-00.38.05:844][125]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.04.28-00.38.05:846][125]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.04.28-00.38.05:846][125]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.04.28-00.38.05:846][125]LogInit: FAudioDevice initialized.
+[2023.04.28-00.38.05:846][125]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2023.04.28-00.38.05:848][125]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.28-00.38.05:849][125]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.04.27-18.38.05
+[2023.04.28-00.38.05:849][125]LogWorld: Bringing up level for play took: 0.000803
+[2023.04.28-00.38.05:851][125]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.04.28-00.38.05:856][125]PIE: Server logged in
+[2023.04.28-00.38.05:856][125]PIE: Play in editor total start time 0.094 seconds.
+[2023.04.28-00.38.08:980][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.38.08:980][408]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.38.08:980][408]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-00.38.08:980][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.38.09:008][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.28-00.38.09:015][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.38.09:060][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.28-00.38.09:061][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.28-00.38.09:063][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.04.28-00.38.09:067][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.38.09:070][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.28-00.38.09:110][409]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.04.28-00.39.07:822][180]LogDerivedDataCache: C:/Users/ALUMNOS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:22.200 and deleted 0 files with total size 0 MiB. Scanned 12129 files in 11579 folders with total size 735 MiB.
+[2023.04.28-00.39.23:203][410]Cmd: DELETE
+[2023.04.28-00.39.23:203][410]Cmd: ACTOR DELETE
+[2023.04.28-00.39.23:205][410]LogEditorActor: Deleted Actor: BP_Space_Sky_Sphere_C
+[2023.04.28-00.39.23:254][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.04.28-00.39.23:257][410]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2023.04.28-00.39.24:273][503]Cmd: TRANSACTION UNDO
+[2023.04.28-00.39.24:273][503]LogEditorTransaction: Undo Delete Elements
+[2023.04.28-00.39.26:096][613]Cmd: DELETE
+[2023.04.28-00.39.26:096][613]Cmd: ACTOR DELETE
+[2023.04.28-00.39.26:097][613]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.28-00.39.26:146][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.04.28-00.39.26:149][613]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2023.04.28-00.39.29:591][874]LogStaticMesh: Display: Building static mesh FlattenPlaneMesh...
+[2023.04.28-00.39.29:594][874]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorLandscapeResources/FlattenPlaneMesh.FlattenPlaneMesh
+[2023.04.28-00.39.29:889][874]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_11 (G8, 128x128 x1x1x1) (Required Memory Estimate: 0.432286 MB), EncodeSpeed: Fast
+[2023.04.28-00.39.29:980][874]LogViewport: Scene viewport resized to 502x585, mode Windowed.
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: ================================================
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Total job queries 1213, among them cache hits 659 (54.33%)
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Tracking 312 distinct input hashes that result in 178 distinct outputs (57.05%)
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: RAM used: 0.79 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Shaders Compiled: 312
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Jobs assigned 343, completed 312 (90.96%)
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Average time worker was idle: 166.36 s
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Time job spent in pending queue: average 3.33 s, longest 70.91 s
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Job execution time: average 9.01 s, max 93.51 s
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Job life time (pending + execution): average 12.65 s, max 102.38
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 197.28 s
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Jobs were issued in 262 batches (only local compilation was used), average 1.31 jobs/batch
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Average processing rate: 1.58 jobs/sec
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Total thread time: 542.13 s
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Total thread preprocess time: 20.95 s
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Percentage time preprocessing: 3.86%
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Effective parallelization: 2.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 20.68 sec, max 20.68 sec, min 20.68 sec)
+[2023.04.28-00.39.37:936][439]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 11.13 sec, max 11.13 sec, min 11.13 sec)
+[2023.04.28-00.39.37:937][439]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 10.83 sec, max 28.43 sec, min 3.74 sec)
+[2023.04.28-00.39.37:937][439]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 10.81 sec, max 10.81 sec, min 10.81 sec)
+[2023.04.28-00.39.37:937][439]LogShaderCompilers: Display:                                    FCloudRenderViewPS000true (compiled    1 times, average 7.38 sec, max 7.38 sec, min 7.38 sec)
+[2023.04.28-00.39.37:937][439]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.28-00.39.37:937][439]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 33.98% of total time (compiled   17 times, average 10.83 sec, max 28.43 sec, min 3.74 sec)
+[2023.04.28-00.39.37:937][439]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.27% of total time (compiled   77 times, average 1.15 sec, max 1.73 sec, min 0.63 sec)
+[2023.04.28-00.39.37:937][439]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.82% of total time (compiled   77 times, average 1.11 sec, max 1.52 sec, min 0.67 sec)
+[2023.04.28-00.39.37:937][439]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.56% of total time (compiled   36 times, average 0.84 sec, max 1.14 sec, min 0.64 sec)
+[2023.04.28-00.39.37:937][439]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.40% of total time (compiled   38 times, average 0.63 sec, max 1.31 sec, min 0.37 sec)
+[2023.04.28-00.39.37:937][439]LogShaderCompilers: Display: ================================================
+[2023.04.28-00.39.58:774][802]LogTexture: Display: Building textures: /Game/Level/Main.Main:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.04.28-00.39.58:774][802]LogTexture: Display: Building textures: /Game/Level/Main.Main:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.04.28-00.39.58:776][802]LogTexture: Display: Building textures: /Game/Level/Main.Main:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 256x512 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.04.28-00.39.58:777][802]LogTexture: Display: Building textures: /Game/Level/Main.Main:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.04.28-00.39.58:781][802]LogTexture: Display: Building textures: /Game/Level/Main.Main:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.04.28-00.39.58:789][802]LogDerivedDataCache: C:/Users/ALUMNOS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/ALUMNOS/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/72/3b/fa9533c2028a53c7366f4dfeeff06f577360.udd from '/Game/Level/Main.Main:PersistentLevel.Landscape_0.Heightmap_1'.
+[2023.04.28-00.39.58:880][802]LogMaterial: Display: LandscapeMaterialInstanceConstant_0-SM5-Default: MATSM_01614A42F67F4FFC8600AD04D15D199F_PCD3D_SM5_165125214__BC5N_NoCCBN_NoIris_DEV_SL_GV_PreExp_DBuf_UnInt_DXC0_VFO_SKYATM_SKYHF_SLWDFS_gs1_sdct_VT-0-0-1-0_DF_VED_Aniso-1_ComprOodle_Compr2_Lev6_ExclNonPipSh-1_LWC-2097152_3821117834D223CF754F51059EF2CB96AE54674576_Num_SM5_FL_0000000d_MFA_00000008_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_5ED0A2783F630BA5CB3EC77766BEDE91B3ED4A5F___TShadowDepthPSPixelShadowDepth_PerspectiveCorrectF449D5DEDCF833608913E6CD8B760EAB37A0558772C96EE55043153763054472F92891367BC849EC_FLumenCardPS<false>C99F08DFC47581645B636159483DE183E5DB9135B4AFBC835B0E8511B596BB98C6C375E96F613E4D_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrectF449D5DEDCF833608913E6CD8B760EAB37A055875D9003A07122BE7BD2876C98DF8D858F5E00365D_TLightMapDensityPSTLightMapPolicyHQC84C3C8B1FA855658F9C0A2A371DDABD1F79452E29E8E0F5F6FD2EDF413A1250AA7BE6E52C951D64_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C72C399F00EA0D8E90CF7BA4C61EF5A3EF74973E9_TBasePassPSTLightMapPolicyLQSkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C2E4EA8FEEED7EE52C208FC54424FEDB2CB987C3B_FLandscapeGrassWeightVSCE760ED4917D7AE7004CF8C6F5F4499E9B97C589A469FA5FCF448A131F926D214995E53915A18256_TLightMapDensityVSFNoLightMapPolicyC84C3C8B1FA855658F9C0A2A371DDABD1F79452E891C1124EC1B5DB941DF1BA5FABB4BBFA352223F_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C69888500E07A0F62E3747DCAFAE5FAC8F032AD04_FHitProxyVS7C36940791A54FBE6A358BA344C8BFAD3CAD2B93B282128ADBC0C8F2E22B2C5B575EEDED30A8B7B8_FHitProxyPSF2A8FCCDF8BB1EBC7BCC3C20C862B59EB528CDEF2A74A59EB00EA821209C26349094BBB03F4D6ED5_FLandscapeGrassWeightPSCE760ED4917D7AE7004CF8C6F5F4499E9B97C589106C943CF2E5C6D33DAE5FDC4A4E9B8232B7C78A_TBasePassPSFNoLightMapPolicyA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C6C8686026B054D9BD961D4C440F5FDD54CA38C07_TShadowDepthVSVertexShadowDepth_OutputDepth566268C17842BE32F7F4196A64F1F860A951687B5C128A2F6D1507D174ED09775E1D5BB050F02683_FLandscapePhysicalMaterialPS9BD56FDC1A69F5A3842C3E86AD24E497CDE01F1CBD4AAA5E1E701CB0F79C3E8D450BEF8AC937258A_TLightMapDensityVSFDummyLightMapPolicyC84C3C8B1FA855658F9C0A2A371DDABD1F79452EA8D01D556A2A6347711968CC5B2C44E20848E17B_FLumenCardVSAC81B5EC2471BF6EB1C6B5C0DED961C1BBCB3000617646237FDC69FB38D590AA0B687E0FB01A281E_TBasePassVSFPrecomputedVolumetricLightmapLightingPolicyD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD6279FB996F0BE2BDCDA243D4A21F958EA439EF10418F_TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435CE098E06E3A7ED4E7D0AE384D374798EAC9E671FB_TBasePassPSFPrecomputedVolumetricLightmapLightingPolicyA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C1BF2DD414CE38D1A46E8BD153A9AAA4080A3ED8A_TBasePassPSTLightMapPolicyHQA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C26BD9FE44090B7A8EDCBBA02B66941E951A0847F_TLightMapDensityPSFDummyLightMapPolicyC84C3C8B1FA855658F9C0A2A371DDABD1F79452E696F9EC07D698191FA845F9186A9C2C14B87D692_TBasePassPSFCachedPointIndirectLightingPolicySkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435CEA781543209A66E56FAA33319B50428AB09B65E2_TBasePassVSFCachedPointIndirectLightingPolicyD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD6279D1726533EF0C3E687EA7E3E99D89F6645873B5F6_TBasePassPSFCachedPointIndirectLightingPolicyA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C233B673B73AD5C3DA45AB58558A2FEAF1AB5A7AA_FVelocityPSC89A3E8742CC125CAF8FEB3824D895F0E057EC90CC98E6311AC1581B96A09EEE8AE8F6960285B5A2_TBasePassPSFCachedVolumeIndirectLightingPolicyA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C80D0A4694439F865D3CC508893BCA55969638F38_TShadowDepthVSVertexShadowDepth_PerspectiveCorrect566268C17842BE32F7F4196A64F1F860A951687BC004ABA017AA57991204B7B624FFD889C3B24A57_TBasePassPSFCachedVolumeIndirectLightingPolicySkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C588D69EC55B53A1F6EF1FDFE007D13A68C0DD945_TLightMapDensityPSFNoLightMapPolicyC84C3C8B1FA855658F9C0A2A371DDABD1F79452E0E6A1E8C16C0AF9964CF3FEFC1B82F1F3B567770_TLightMapDensityVSTLightMapPolicyLQC84C3C8B1FA855658F9C0A2A371DDABD1F79452E436509D3C31F9011DB1B52E8E02F2100F14082F9_TBasePassVSTLightMapPolicyHQD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD6279CE573C2FA544614368F38DB987E943642455C304_FLandscapePhysicalMaterialVS9BD56FDC1A69F5A3842C3E86AD24E497CDE01F1CDE0D5BCEA7EC56FCFAF6FE24C7902B1E6C1A2354_TBasePassPSFNoLightMapPolicySkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C3C0FD33120C8575A512698C01E1EBF84CB90BE73_TBasePassVSFCachedVolumeIndirectLightingPolicyD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD627952DA8047FE3873ACFEEB67FCFF3AF5DF1AA7C5C8_TShadowDepthPSPixelShadowDepth_OnePassPointLightF449D5DEDCF833608913E6CD8B760EAB37A055871C20FE0F6421C3566B37C59CBA77F6639400AC09_TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD627960D5E6FFDE96A687BE1C1A2ED9EDE815F8E41839_TShadowDepthVSVertexShadowDepth_OnePassPointLight566268C17842BE32F7F4196A64F1F860A951687B56E359529EA5F920092BA8DF37812C451EC3EEF6_TBasePassPSTLightMapPolicyLQA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C94FC918ED25A4366478C0CE664DD0F431FB434A6_TLightMapDensityPSTLightMapPolicyLQC84C3C8B1FA855658F9C0A2A371DDABD1F79452E0B66239385DAE6F5050046365A9D116D80E52224_TBasePassVSTLightMapPolicyLQD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD6279BFC5C974DD65E6DA17A7D3C21BFBF250BA30283F_TLightMapDensityVSTLightMapPolicyHQC84C3C8B1FA855658F9C0A2A371DDABD1F79452EB0E82574BC7F5C377B8E738E24BDE3D732363B44_FDebugViewModePS56838088095D59EE5193ECF20E85FE62298C7B9EE177622259CDB9DC1140CF61335F5353997EC8B6_TBasePassPSTLightMapPolicyHQSkylightA50322446B83A4AA2D12EFC7A6D5C9AEFA80435C25C2A51F6B76462E73EA9720145CE5233C11211C_TDepthOnlyVS<false>24730E33B4CBAAD6CC8E99A19D1BC1E6B4CB0B0AACA14F90957AEBF5BC1C2C3E6DB6BC750BA01CCD_FVelocityVSC89A3E8742CC125CAF8FEB3824D895F0E057EC90C043BB9FD7164B6E8DBD4123FD00693BC9B4513E_FDebugViewModeVS3D41E5A6CFCAEA88797E908D01A0A213270F85AA809CB80A6A7260721600DBFAB6C1E0001BD9B8AE_TBasePassVSFNoLightMapPolicyD04A42A3D7B4A6D063A7A38C2B9ADF7F0EFD62792677AEB94C74F9DCEF44AB17F94D82839B020A23_VelocityPipeline870119D18CF0465BE0070A38FCB3F092A61618D2_DepthNoPixelPipeline24730E33B4CBAAD6CC8E99A19D1BC1E6B4CB0B0A_FLandscapeXYOffsetVertexFactory10E569238A1467FCD7FB548253D74CF0ABE0F4F8B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FLandscapeVertexFactory10E569238A1467FCD7FB548253D74CF0ABE0F4F8B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FLandscapeFixedGridVertexFactory10E569238A1467FCD7FB548253D74CF0ABE0F4F83F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB203210141414444414441444141414141444447401010101010131131010204444161512141424044442414141313101434444044444444444444442434141415101010110131313331213333434141423141342044444141413131343041413101015101010100543434343444144444444515151010101131010536161616121000404040404040404040404040404043434343434343444443434343404040404040404343434340404040444442424444444434444442424141214144444442414141434141414141414141413131313131444344444444414141414141414141414141434343444444444444434440444141414144414141414141434141414441414141444441414141414133414424444441414143234141414141314141414241234342414343434143414144414141313131343244414141244141313134444341414121212421213131444212222614114221012121212424444444444041415101510156001444444510110151515151616161616101010101015250101110041010101010101510101010101014314150001010101010101010101010101010101010101160004441404042424313131414401010101010101013101010140121313131416160601012101010101510121014044444404342404442414131500444444444444343410131313321403040404341444341433144334143314331434143414331433143314221414331444144121043141314101510101014644444404446444444444404440141510151015101500010101010101010101010101011000044414040414121010100001010101010101444442420140444444444444444444444444444444444444444444444444444444444444444444444444440431313121213131222222220101010101011010101010404424241414121010101015101510141010151010100040444444515101010004040404040404040404040404040434343434343434444434343434040404040404043434343404040404444424244444444344444424241412141444444424141414341414141414141414131313131314443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141414141334144244444414141432341414141413141414142412343424143434341434141444141413131313432444141412441413131344443414141212124212131314141010151515151515151515151010101010101010101515151515101510151015101510151010101010101015101616161616151015101510151015101510151013131515151510151010151016461414151010161617161636340431313131313131314422223141414101010101011100000013000000130000001300000013000000130000001300000013000000130000000D000000080000001400000010000000080000000900000008000000230000001000000010000000090000000800000008000000100000001000000010000000100000000800000008000000080000001000000010000000CE00000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000120000001000000008000000080000000800000013000000080000001000000008000000080000000800000008000000080000001300000009000000140000000E00000013000000130000001300000013000000130000001300000008000000100000000900000008000000090000000800000008000000130000000900000008000000090000000800000009000000080000000C00000009000000080000000900000009000000090000000900000009000000080000000800000008000000080000000800000013000000100000001000000010000000130000001000000010000000100000001000000009000000090000000900000010000000100000001000000010000000080000000B00000013000000130000000900000009000000090000001400000008000000090000000D0000000C00000010000000080000000800000028000000100000001000000010000000100000000900000008000000100000001000000010000000100000001000000009000000080000000800000008000000080000000D00000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000C00000009000000080000000900000008000000090000000C000000080000001300000026000000110000000900000009000000090000000900000009000000100000001B000000130000001300000013000000130000001300000009000000080000000900000008000000080000000800000014000000140000000800000009000000090000000800000008000000100000000800000008000000290100001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A899000000000000000000000000000000000000000054BDFD528AA46A4E9413E044DCAC9A8F37A07E9D_101_101_4;
+[2023.04.28-00.39.58:881][802]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: EBB446E31BDB3CE5F139965CD9FEA74AB2F892DD), compiling. Is special engine material.
+[2023.04.28-00.40.01:199][802]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.04.28-00.40.02:494][802]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049746s
+[2023.04.28-00.40.22:039][802]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002342s (19.592976s overbudget)
+[2023.04.28-00.40.23:198][802]LogTexture: Display: Building textures: /Game/Level/Main.Main:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.04.28-00.40.23:219][802]LogTexture: Display: Building textures: /Game/Level/Main.Main:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 256x512 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.04.28-00.40.23:237][802]LogTexture: Display: Building textures: /Game/Level/Main.Main:PersistentLevel.Landscape_0.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.04.28-00.40.23:257][802]LogTexture: Display: Building textures: /Game/Level/Main.Main:PersistentLevel.Landscape_0.Heightmap_11 (BGRA8, 256x512 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.04.28-00.40.24:547][803]LogAutomationController: Ignoring very large delta of 26.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.28-00.41.33:450][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.41.33:507][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.41.33:569][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.28-00.41.33:772][410]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.41.33:773][410]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/Main79EE2B3E415E928ACC0FC9BA9AF85F42.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.41.33:788][410]LogFileHelpers: Saving map 'Main' took 0.281
+[2023.04.28-00.41.33:794][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 344 ms (total: 8.96 sec)
+[2023.04.28-00.41.33:804][410]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.41.33:804][410]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.28-00.41.34:143][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.41.34:203][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.41.34:252][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.04.28-00.41.34:455][446]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.41.34:456][446]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/MainFB7C9FA745A974557C05B99C0D0144AD.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.41.34:471][446]LogFileHelpers: Saving map 'Main' took 0.269
+[2023.04.28-00.41.34:481][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms (total: 9.29 sec)
+[2023.04.28-00.41.34:488][446]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.41.34:488][446]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.28-00.41.50:854][263]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.28-00.41.50:861][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.28-00.41.50:861][263]PIE: New page: PIE session: Main (Apr 27, 2023, 1:41:50 PM)
+[2023.04.28-00.41.50:862][263]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.41.50:910][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048712s)
+[2023.04.28-00.41.50:910][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Main.Main to /Game/Level/UEDPIE_0_Main.Main (0.048763s)
+[2023.04.28-00.41.50:911][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-00.41.50:911][263]LogAIModule: Creating AISystem for world Main
+[2023.04.28-00.41.50:911][263]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2023.04.28-00.41.50:959][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.28-00.41.50:961][263]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.28-00.41.50:961][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.28-00.41.50:961][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.28-00.41.50:961][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.28-00.41.50:961][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.28-00.41.50:961][263]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.28-00.41.50:961][263]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.28-00.41.50:961][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.28-00.41.50:961][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.28-00.41.50:962][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.28-00.41.50:962][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.28-00.41.50:962][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.28-00.41.50:964][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.28-00.41.50:988][263]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.04.28-00.41.50:988][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.28-00.41.50:988][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.28-00.41.50:988][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.28-00.41.50:988][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.04.28-00.41.50:988][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.04.28-00.41.50:991][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.04.28-00.41.50:991][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.04.28-00.41.50:991][263]LogInit: FAudioDevice initialized.
+[2023.04.28-00.41.50:991][263]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2023.04.28-00.41.50:993][263]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.28-00.41.51:003][263]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.04.27-18.41.51
+[2023.04.28-00.41.51:004][263]LogWorld: Bringing up level for play took: 0.010022
+[2023.04.28-00.41.51:006][263]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.04.28-00.41.51:011][263]PIE: Server logged in
+[2023.04.28-00.41.51:012][263]PIE: Play in editor total start time 0.15 seconds.
+[2023.04.28-00.42.04:650][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.42.04:650][617]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.42.04:650][617]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-00.42.04:653][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.42.04:659][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.28-00.42.04:666][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.42.04:717][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.42.04:717][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.28-00.42.04:719][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.04.28-00.42.04:729][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.04.28-00.42.04:776][618]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.04.28-00.42.10:009][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.04.28-00.42.39:539][661]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.04.28-00.42.39:539][661]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.04.28-00.42.39:540][661]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Level/Main.Main:PersistentLevel.PlayerStart_0
+[2023.04.28-00.42.39:540][661]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.28-00.42.39:540][661]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Level/Main.Main:PersistentLevel.PlayerStart_0
+[2023.04.28-00.42.39:540][661]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.28-00.42.40:113][708]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.04.28-00.42.40:113][708]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.04.28-00.42.40:114][708]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Level/Main.Main:PersistentLevel.PlayerStart_1
+[2023.04.28-00.42.40:114][708]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.28-00.42.40:116][708]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Level/Main.Main:PersistentLevel.PlayerStart_1
+[2023.04.28-00.42.40:116][708]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.28-00.42.40:689][755]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.04.28-00.42.40:690][755]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.04.28-00.42.40:692][755]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Level/Main.Main:PersistentLevel.PlayerStart_2
+[2023.04.28-00.42.40:692][755]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.28-00.42.40:692][755]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Level/Main.Main:PersistentLevel.PlayerStart_2
+[2023.04.28-00.42.40:692][755]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.28-00.42.45:115][170]LogViewport: Scene viewport resized to 983x585, mode Windowed.
+[2023.04.28-00.42.50:510][567]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.28-00.42.56:697][ 25]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.28-00.42.57:707][104]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.04.28-00.42.57:766][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.04.28-00.43.00:945][104]LogSlate: Window 'Save Content' being destroyed
+[2023.04.28-00.43.00:953][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.43.01:006][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.43.01:053][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.04.28-00.43.01:259][104]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.43.01:260][104]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/Main20E9B5D6469749F317A5F2910FAC9D9A.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.43.01:273][104]LogFileHelpers: Saving map 'Main' took 0.268
+[2023.04.28-00.43.01:278][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 325 ms (total: 9.62 sec)
+[2023.04.28-00.43.01:292][105]LogAutomationController: Ignoring very large delta of 3.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.28-00.43.01:303][105]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.43.01:303][105]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.04.28-00.43.27:263][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.28-00.43.27:263][398]PIE: New page: PIE session: Main (Apr 27, 2023, 1:43:27 PM)
+[2023.04.28-00.43.27:263][398]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.43.27:320][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057402s)
+[2023.04.28-00.43.27:320][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Main.Main to /Game/Level/UEDPIE_0_Main.Main (0.057454s)
+[2023.04.28-00.43.27:321][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.28-00.43.27:321][398]LogAIModule: Creating AISystem for world Main
+[2023.04.28-00.43.27:322][398]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2023.04.28-00.43.27:376][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.04.28-00.43.27:377][398]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.28-00.43.27:378][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.28-00.43.27:378][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.28-00.43.27:378][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.28-00.43.27:378][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.28-00.43.27:378][398]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.28-00.43.27:378][398]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.28-00.43.27:378][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.28-00.43.27:378][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.28-00.43.27:379][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.28-00.43.27:379][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.28-00.43.27:379][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.28-00.43.27:382][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.28-00.43.27:409][398]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.04.28-00.43.27:409][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.28-00.43.27:409][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.28-00.43.27:409][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.28-00.43.27:410][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.04.28-00.43.27:410][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.04.28-00.43.27:412][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.04.28-00.43.27:412][398]LogInit: FAudioDevice initialized.
+[2023.04.28-00.43.27:412][398]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main'.
+[2023.04.28-00.43.27:412][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.04.28-00.43.27:415][398]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.04.28-00.43.27:431][398]LogWorld: Bringing World /Game/Level/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.04.27-18.43.27
+[2023.04.28-00.43.27:431][398]LogWorld: Bringing up level for play took: 0.016544
+[2023.04.28-00.43.27:434][398]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.04.28-00.43.27:439][398]PIE: Server logged in
+[2023.04.28-00.43.27:439][398]PIE: Play in editor total start time 0.177 seconds.
+[2023.04.28-00.43.48:209][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.43.48:209][263]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Main
+[2023.04.28-00.43.48:210][263]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.04.28-00.43.48:212][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.43.48:218][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.28-00.43.48:226][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.28-00.43.48:274][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.28-00.43.48:274][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.28-00.43.48:276][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.04.28-00.43.48:280][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.28-00.43.48:286][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.04.28-00.43.48:321][264]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.04.28-00.43.49:463][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.28-00.43.49:526][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.28-00.43.49:575][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.04.28-00.43.49:777][352]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.04.28-00.43.49:778][352]LogSavePackage: Moving '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Saved/MainE6211AD649F0A089E518DCADE398140C.tmp' to '../../../../../../Users/ALUMNOS/Documents/Unreal Projects/CelestialSearch/Content/Level/Main.umap'
+[2023.04.28-00.43.49:793][352]LogFileHelpers: Saving map 'Main' took 0.268
+[2023.04.28-00.43.49:800][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms (total: 9.96 sec)
+[2023.04.28-00.43.49:809][352]AssetCheck: New page: Asset Save: Main
+[2023.04.28-00.43.49:809][352]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
